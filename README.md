@@ -1,13 +1,13 @@
-# 1.Subscriber Intelligence: Churn & Revenue Analysis Dashboard (power bi project)
+# Subscriber Intelligence: Churn & Revenue Analysis Dashboard (power bi project)
 
 An interactive Power BI dashboard built to uncover patterns in subscriber churn, revenue generation, and risk segmentation. The dashboard helps stakeholders identify high-risk users, optimize pricing strategies, and improve customer retention.
 
-## 2. Short Description / Purpose
+## 1. Purpose
 
 The Subscriber Intelligence Dashboard is designed to provide insights into why subscribers leave, how revenue is distributed across demographics, and where churn risk is highest. This Power BI report supports business leaders, data analysts, and subscription strategists in making data-driven decisions to reduce churn and increase customer lifetime value
 
 
-## 3.  Tech Stack
+## 2.  Tech Stack
 
    ⚪ Power BI Desktop – for dashboard creation and interaction
 
@@ -20,7 +20,7 @@ The Subscriber Intelligence Dashboard is designed to provide insights into why s
    ⚪ File Format – .pbix for dashboard, .csv for raw data, .png for screenshots
 
 
-## 4. Data Source
+## 3. Data Source
 
 **source:** `Subscription_Service_Churn_Dataset.csv'(kaggle)
 
@@ -32,7 +32,7 @@ Contains details about:
 - Customer demographics (gender, age, payment method)
 - Account age, churn status, and user ratings
 
-## 5. Features / Highlights
+## 4.  Highlights
 
 ### Business Problem
 
@@ -43,7 +43,7 @@ Subscription services face difficulty identifying why users churn, where revenue
 - What are the key revenue drivers?
 
 
-###  Goal of the Dashboard
+### 5. Goal of the Dashboard
 
 To create an insightful dashboard that:
 
@@ -54,7 +54,7 @@ To create an insightful dashboard that:
 - Pinpoints high-risk users for targeted retention
   
 
-##   Key Visuals
+##  6. Key Visuals
 
 
 - Churn Rate KPI – Overall percentage of customers who left
@@ -76,21 +76,34 @@ To create an insightful dashboard that:
 - Customer Churn Risk Table – Sorted table highlighting top high-risk customers
   
 
-##   Business  impact & Insights
+## 7.  Business  impact & Insights
 
-- Premium plan users with short account age are most at risk of churn.
+
+- Premium plan users with shorter account age are at the highest churn risk, suggesting a need for early-stage engagement strategies.
   
-- Electronic payment method users show higher churn.
- 
-- Targeted retention strategies can be applied by gender and device usage.
+- Electronic payment method users show higher churn, indicating a possible issue with ease of transaction or perceived security.
   
-- Visuals help prioritize intervention for accounts with high charges but low tenure.
+- Targeted retention strategies can be applied by segmenting based on gender, device type, and plan usage.
+  
+- High-revenue customers with low tenure should be prioritized for loyalty programs to maximize lifetime value.
+  
+- Churn is lowest among long-term subscribers on standard plans, highlighting the success of stable mid-tier pricing.
+  
+- Tablet and TV device users show lower churn, suggesting those platforms may offer a better user experience.
+  
+- Customers with lower monthly charges churn less frequently, indicating that affordability may reduce drop-off.
+  
+- Lack of engagement (e.g., account inactivity) correlates with increased churn — engagement metrics can improve retention modeling.
+  
+- High rating customers churn less, implying that satisfaction surveys could serve as early churn predictors.
+  
+- ARPU (Average Revenue per User) remains stable across age groups, showing that pricing strategy is well-distributed but could be better optimized by tenure.
 
 
 
-##  Dashboard Preview
+## 8. Dashboard Preview
 
-![Subscriber Churn Dashboard](snapshot of the dashboard.png
+![Subscriber Churn Dashboard](https://github.com/iamsunaina1/subscriber-intelligence-dashboard/blob/main/snapshot%20of%20the%20dashboard.png)
 
 
 
