@@ -90,7 +90,7 @@ To create an insightful dashboard that:
 
 ##  Dashboard Preview
 
-![Subscriber Churn Dashboard]
+![Subscriber Churn Dashboard](snapshot of the dashboard.png
 
 
 
