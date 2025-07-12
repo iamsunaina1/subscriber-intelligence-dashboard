@@ -106,4 +106,14 @@ To create an insightful dashboard that:
 ![Subscriber Churn Dashboard](https://github.com/iamsunaina1/subscriber-intelligence-dashboard/blob/main/snapshot%20of%20the%20dashboard.png)
 
 
+##  How to Use
 
+1. Download the `.pbix` file from this repository (`PowerBI_Subscriber_Intelligence.pbix`).
+2. Open the file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+3. Interact with filters and slicers to explore churn patterns, revenue insights, and customer segmentation.
+
+##  Author
+
+**Sunaina** – Aspiring Data analyst  
+🔗 [LinkedIn](https://www.linkedin.com/in/sunaina-p-a-9704ba372/)  
+📬 [GitHub Portfolio](https://github.com/iamsunaina1)
