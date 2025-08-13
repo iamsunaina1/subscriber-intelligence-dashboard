@@ -115,5 +115,5 @@ To create an insightful dashboard that:
 ##  Author
 
 **Sunaina** – Aspiring Data analyst  
-🔗 [LinkedIn](https://www.linkedin.com/in/sunaina-p-a-9704ba372/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sunaina-pa/)  
 📬 [GitHub Portfolio](https://github.com/iamsunaina1)
